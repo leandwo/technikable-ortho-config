@@ -76,9 +76,9 @@
 
         sym_layer {
             bindings = <
-&kp GRAVE  &kp LS(EXCL)   &kp LS(AT)    &kp LS(POUND)  &kp LS(DLLR)  &kp LS(PRCNT)  &kp LS(CARET)  &kp LS(AMPS)  &kp LS(STAR)  &kp SEMI  &kp LS(COLON)  &kp BSLH
-&kp ESC    &kp N1         &kp N2        &kp N3         &kp N4        &kp N5         &kp N6         &kp N7        &kp N8        &kp N9    &kp N0         &kp SQT
-&kp MINUS  &kp LS(UNDER)  &kp LBRC      &kp LBKT       &kp LPAR      &kp LT         &kp GT         &kp RPAR      &kp RBKT      &kp RBRC  &kp FSLH       &kp EQUAL
+&kp GRAVE  &kp LS(EXCL)   &kp LS(AT)    &kp LS(POUND)  &kp LS(DLLR)  &kp LS(PRCNT)  &kp LS(CARET)  &kp LS(AMPS)  &kp LS(STAR)  &kp LS(COLON)    &kp SEMI    &kp BSLH
+&kp ESC    &kp N1         &kp N2        &kp N3         &kp N4        &kp N5         &kp N6         &kp N7        &kp N8        &kp N9           &kp N0      &kp SQT
+&kp MINUS  &kp LS(UNDER)  &kp LBRC      &kp LBKT       &kp LPAR      &kp LT         &kp GT         &kp RPAR      &kp RBKT      &kp RBRC         &kp FSLH    &kp EQUAL
                           &trans        &kp BSPC       &kp SPACE     &kp TAB        &trans         &trans        &trans        &trans
             >;
         };
